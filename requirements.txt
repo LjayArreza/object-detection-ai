@@ -1,0 +1,4 @@
+ultralytics~=8.2.75
+opencv-python~=4.10.0.84
+cvzone~=1.5.6
+requests~=2.32.3
